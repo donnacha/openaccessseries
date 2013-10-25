@@ -1,7 +1,7 @@
 The RIA Open Access Opinion Series
 ================
 
-#To coincide with the tenth anniversary of the Berlin Declaration on Open Access in November 2013 and to contribute to the ongoing discussions on Open Access within the public research and higher education sectors in Ireland and internationally, the Academy will run an online Open Access series.
+###To coincide with the tenth anniversary of the Berlin Declaration on Open Access in November 2013 and to contribute to the ongoing discussions on Open Access within the public research and higher education sectors in Ireland and internationally, the Academy will run an online Open Access series.
 
 Written by MRIA and Academy staff whose work engages with open access developments, the series will offer a series of perspectives on the opportunities and challenges for research and scholarship arising from open access.
 
